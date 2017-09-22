@@ -93,6 +93,7 @@ h4{
 	font-weight:700; 
 	color:#464646;
 }
+
 p{
 	line-height:24px;
 	margin:0;
@@ -124,7 +125,11 @@ font-family: 'Open Sans', sans-serif;
 	
 
 }
-
+/*Custom style Daya*/
+.client-part2{
+	padding:0px 0;
+	text-align:center;
+}
 
 .logo{
 	width:130px;
@@ -428,6 +433,7 @@ img {
 
 /* Clients
 ---------------------------------*/
+
 .client-part{
 	background:url(../img/section-bg1.jpg) center center no-repeat;
 	background-size:cover;
