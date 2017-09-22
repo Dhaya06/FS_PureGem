@@ -1,0 +1,30 @@
+.whywe{
+    padding:25px 0 90px;    
+}
+.whywe h2{padding-top:140px;}
+.whywe h4{
+    padding-top:70px;
+    padding-bottom:15px;    
+}
+.whywe p{font-weight:300;}
+
+#photo{padding-top:100px;}
+#photo .width8{ padding:70px 0 0 0px;}
+
+.width4{
+    width:25%;
+    float:left; 
+}
+.width4 img{width:100%; display:block;}
+.width8{width:50%; float:left; padding:70px 0 0 45px;}
+.width8 h2{margin-bottom:20px;}
+.iteams p{
+    line-height:30px; 
+    font-weight:300;
+    padding:45px 0 90px;    
+}
+
+
+.fa-cog {
+  color: green;
+}
